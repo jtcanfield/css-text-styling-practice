@@ -4,4 +4,10 @@
 }
 .main_navigation a {
   border: 1px solid rgb(209, 213, 130);
+  text-decoration: none;
+  padding: 10px;
+  color: rgb(139, 11, 26);
+}
+#lorem{
+  color: rgb(207, 71, 40);
 }

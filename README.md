@@ -2,6 +2,9 @@
 
 This document contains some basic instructions for how to interact with this project.
 
+##LINK TO VIEW FILE:
+http://htmlpreview.github.io/?https://github.com/jtcanfield/css-text-styling-practice/blob/master/index.html
+
 ## Solution Files
 Solutions to the coding challenges are included with this activity.
 
